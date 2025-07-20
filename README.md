@@ -1,1 +1,4 @@
-# Q1_TDS_ROE_
+{
+  "pair": "Avg_Basket-Net_Sales",
+  "correlation": 0.51186
+}
